@@ -7,7 +7,7 @@ function Education() {
       <div className="card">
         <h3>B.Tech in Computer Science and Engineering</h3>
         <p>First-year student focusing on building a strong foundation in
-             computer science principles and core programming.</p>
+          computer science principles and core programming.</p>
       </div>
     </section>
   );

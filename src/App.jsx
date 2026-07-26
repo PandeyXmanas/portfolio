@@ -26,7 +26,7 @@ function App() {
       </main>
 
       <footer>
-        <p>© 2026 Manas Pandey. Built with React.</p>
+        <p>© 2026 Manas Pandey | Built with React.</p>
       </footer>
     </div>
   );
