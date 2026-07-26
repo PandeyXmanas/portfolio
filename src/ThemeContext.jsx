@@ -13,12 +13,12 @@ export const ThemeProvider = ({ children }) => {
   });
 
   useEffect(() => {
-    // Update data-theme on body and save to local storage
+    // Update class on body and save to local storage
     if (isDarkMode) {
-      document.body.setAttribute('data-theme', 'dark');
+      document.documentElement.classList.add('dark');
       localStorage.setItem('theme', 'dark');
     } else {
-      document.body.removeAttribute('data-theme');
+      document.documentElement.classList.remove('dark');
       localStorage.setItem('theme', 'light');
     }
   }, [isDarkMode]);
