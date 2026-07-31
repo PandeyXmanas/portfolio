@@ -1,6 +1,7 @@
 # Manas Pandey's Portfolio
 
 Welcome to my personal portfolio project! This repository contains the source code for my portfolio website, built with React and Vite.
+The page is live on https://portfoliomanas.vercel.app/ 
 
 ## About Me
 Hello! I am a first-year student pursuing a B.Tech in Computer Science and Engineering. I love exploring different areas of technology, working on diverse projects, and continuously learning new skills to build impactful solutions.
