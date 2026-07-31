@@ -4,7 +4,7 @@ Welcome to my personal portfolio project! This repository contains the source co
 The page is live on https://portfoliomanas.vercel.app/ 
 
 ## About Me
-Hello! I am a first-year student pursuing a B.Tech in Computer Science and Engineering. I love exploring different areas of technology, working on diverse projects, and continuously learning new skills to build impactful solutions.
+Hello! I am a second-year student pursuing a B.Tech in Computer Science and Engineering. I love exploring different areas of technology, working on diverse projects, and continuously learning new skills to build impactful solutions.
 
 ## My Skills
 - **Programming:** C, Java, Python
